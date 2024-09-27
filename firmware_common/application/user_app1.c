@@ -16,6 +16,7 @@ To start a new task using this user_app1 as a template:
  9. Update yournewtaskname.h per the instructions at the top of yournewtaskname.h
 10. Delete this text (between the dashed lines) and update the Description below to describe your task
 ----------------------------------------------------------------------------------------------------------------------
+TESTING TO COMMIT
 
 ------------------------------------------------------------------------------------------------------------------------
 GLOBALS
